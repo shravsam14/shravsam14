@@ -120,9 +120,9 @@ I'm always open to **learning, collaborating, building projects, and connecting 
 
 📌 **GitHub:** [Your GitHub Profile](https://github.com/shravsam14)
 
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/)
+💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/shravyaa-sampathkumar-b59250215)
 
-📧 **Email:** Your email address
+📧 **Email:** shravyaa06@gmail.com
 
 ---
 
