@@ -118,7 +118,7 @@ I'm constantly experimenting, learning from mistakes, and adding new technologie
 
 I'm always open to **learning, collaborating, building projects, and connecting with fellow developers**.
 
-📌 **GitHub:** [Your GitHub Profile](https://github.com/)
+📌 **GitHub:** [Your GitHub Profile](https://github.com/shravsam14)
 
 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/)
 
