@@ -118,9 +118,9 @@ I'm constantly experimenting, learning from mistakes, and adding new technologie
 
 I'm always open to **learning, collaborating, building projects, and connecting with fellow developers**.
 
-📌 **GitHub:** [Your GitHub Profile](https://github.com/shravsam14)
+📌 **GitHub:** [https://github.com/shravsam14]
 
-💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/shravyaa-sampathkumar-b59250215)
+💼 **LinkedIn:** [https://www.linkedin.com/in/shravyaa-sampathkumar-b59250215/]
 
 📧 **Email:** shravyaa06@gmail.com
 
